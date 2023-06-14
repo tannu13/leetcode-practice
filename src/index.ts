@@ -12,5 +12,8 @@
 // import { romanToInt } from "./13-Roman-to-Integer";
 // console.log(romanToInt("MCMXCIV")); // 3
 
-import { lengthOfLongestSubstring } from "./3-Longest-Substring-Without-Repeating-Characters";
-console.log(lengthOfLongestSubstring("pwwkew")); // 3
+// import { lengthOfLongestSubstring } from "./3-Longest-Substring-Without-Repeating-Characters";
+// console.log(lengthOfLongestSubstring("pwwkew")); // 3
+
+import { isPalindrome } from "./9-Palindrome-Number";
+console.log(isPalindrome(121));
