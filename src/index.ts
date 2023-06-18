@@ -15,5 +15,8 @@
 // import { lengthOfLongestSubstring } from "./3-Longest-Substring-Without-Repeating-Characters";
 // console.log(lengthOfLongestSubstring("pwwkew")); // 3
 
-import { isPalindrome } from "./9-Palindrome-Number";
-console.log(isPalindrome(121));
+// import { isPalindrome } from "./9-Palindrome-Number";
+// console.log(isPalindrome(121));
+
+import { intToRoman } from "./12-Integer-to-Roman";
+console.log(intToRoman(1994));
