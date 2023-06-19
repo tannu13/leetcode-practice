@@ -18,5 +18,8 @@
 // import { isPalindrome } from "./9-Palindrome-Number";
 // console.log(isPalindrome(121));
 
-import { intToRoman } from "./12-Integer-to-Roman";
-console.log(intToRoman(1994));
+// import { intToRoman } from "./12-Integer-to-Roman";
+// console.log(intToRoman(1994));
+
+import { convert } from "./6-Zigzag-Conversion";
+console.log(convert("PAYPALISHIRING", 3));
